@@ -8,9 +8,9 @@
 
 ## <a name="build"></a> Building and Summary
 ---
-The Inital request was to create three webpages to simulate a well put together portfolio using Bootstrap. It was intended for all pages to link to eachother with all elements functioning seamlessly. My overall satisfaction is that I' quite happy with the turnout. Though the project itself was challenging I had a very fun time with this specific project! `My outlook for the future is bright!`
+The Inital request was to create three webpages to simulate a well put together portfolio using Bootstrap. It was intended for all pages to link to eachother with all elements in addtion to using rows and columns functioning seamlessly. My overall satisfaction is that I'm quite content with the turnout. Though the project itself was challenging I had a very fun time with this specific project!
 
-Picture of the About me:
+```Picture of the About me featuring rows and columns:```
 ![picture](https://i.imgur.com/onXr5zK.png)
 
 
