@@ -10,6 +10,9 @@
 ---
 The Inital request was to create three webpages to simulate a well put together portfolio using Bootstrap. It was intended for all pages to link to eachother with all elements functioning seamlessly. My overall satisfaction is that I' quite happy with the turnout. Though the project itself was challenging I had a very fun time with this specific project! `My outlook for the future is bright!`
 
+Picture of the About me:
+![picture](https://i.imgur.com/onXr5zK.png)
+
 
 
 
@@ -53,7 +56,7 @@ Thank you to all who supported emotionally, technically or otherwise you've prov
 ## <a name="built w"></a>Built Using
 ---
 
-* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS) (Though no .css doc was used)
 * [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 * [Bootstrap](https://getbootstrap.com/) 
 
