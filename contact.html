@@ -22,21 +22,82 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
               <li class="nav-item">
-                <a class="nav-link active" aria-current="page" href="#">About me</a>
+                <a class="nav-link" href="index.html" aria-current="page" href="#">About me</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="contact.html">Portfolio</a>
+                <a class="nav-link" href="portfolio.html">Portfolio</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="portfolio.html">Contact</a>
+                <a class="nav-link active" href="contact.html">Contact</a>
               </li>
               
             </ul>
           </div>
         </div>
       </nav>
-      
+      <!--Section: Contact v.2-->
+<section class="mb-4">
+
+ <h2 class="h1-responsive font-weight-bold text-center my-4">Contact</h2>
+  <p class="text-center w-responsive mx-auto mb-5"></p>
+          <form id="contact-form" name="contact-form" action="mail.php" method="POST">
+            <div class="row">
+               <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="name" name="name" class="form-control">
+                          <label for="name" class="">Your name</label>
+                      </div>
+                  </div>
+                  <div class="col-md-6">
+                      <div class="md-form mb-0">
+                          <input type="text" id="email" name="email" class="form-control">
+                          <label for="email" class="">Your email</label>
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="md-form mb-0">
+                          <input type="text" id="subject" name="subject" class="form-control">
+                          <label for="subject" class="">Subject</label>
+                      </div>
+                  </div>
+              </div>
+              <div class="row">
+                  <div class="col-md-12">
+                      <div class="md-form">
+                          <textarea type="text" id="message" name="message" rows="2" class="form-control md-textarea"></textarea>
+                          <label for="message">Your message</label>
+                      </div>
+
+                  </div>
+              </div>
+            </form>
+
+          <div class="text-center">
+              <a class="btn btn-primary" onclick="document.getElementById('contact-form').submit();">Send</a>
+          </div>
+          <div class="status"></div>
+         </div>
+</section>
+<!--Section: Contact v.2-->
         <style>
+        .footer {
+          font-family: 'Andika New Basic', sans-serif;
+          position: fixed;
+          left: 0;
+          bottom: 0;
+          width: 100%;
+          background-color: rgb(57, 57, 68);
+          color: white;
+          text-align: center;
+        }
+        </style>
+        <div class="footer">
+          <p>Footer</p>
+        </div>
+
+            <style>
             body {
               background-image: url('https://www.designbolts.com/wp-content/uploads/2012/12/Grey-Jean-White-Seamless-Patterns-For-Website-Backgrounds.jpg');
             }
