@@ -8,14 +8,14 @@
 
 ## <a name="build"></a> Building and Summary
 ---
- The Inital request was to create three webpages to simulate a well put together portfolio using Bootstrap. It was intended for all pages to link to eachother with all elements functionioning seamlesslessy. My overall satisfaction is that I' quite happy with the turnout. Though the project itself was challenging I had a very fun time with this specific project! My outlook for the future is bright!
+The Inital request was to create three webpages to simulate a well put together portfolio using Bootstrap. It was intended for all pages to link to eachother with all elements functioning seamlessly. My overall satisfaction is that I' quite happy with the turnout. Though the project itself was challenging I had a very fun time with this specific project! `My outlook for the future is bright!`
 
 
 
 
 ## <a name="code"></a>Code Snippits
 ---
-This Particular peice of code was key for the background image. The backdround captures the body then targets the background to repeat an image which can be found on each page.
+This particular piece of code was key for the background image. The background captures the body then targets the background to repeat an image which can be found on each page.
 
 ```  
             <style>
@@ -25,7 +25,7 @@ This Particular peice of code was key for the background image. The backdround c
             </style>
 ```
 ---
-Next, this particular peice of code showcase how the Navbar links seammlessly transition from page to page. It also shows that what page you are currently viewing on the navbar with this particular peice: ```aria-current="page"```
+Next, this particular peice of code showcase how the Navbar links seamlessly transition from page to page. It also shows that what page you are currently viewing on the navbar with this particular piece: ```aria-current="page"```
 based off of this wee can see that on the code we are viewing the "About me" page or "index.html".
 ```
    <li class="nav-item">
@@ -41,16 +41,15 @@ based off of this wee can see that on the code we are viewing the "About me" pag
 
 ## <a name="shout"></a> Resources
 ---
-Thank you to all who supported emotionaly, technically or otherwise you've provided help for this project in ways you couldn't imagine some key elements used:
+Thank you to all who supported emotionally, technically or otherwise you've provided help for this project in ways you couldn't imagine some key elements used:
 
-* W3 Schools
-* Youtube
-* UCBerkley
-* Mozilla
-* Coderwall
-* StackOverflow
-
-Special shoutout 
+* [W3 Schools](https://www.w3schools.com/)
+* [Youtube](https://www.youtube.com/)
+* [UC Berkley](https://www.berkeley.edu/)
+* [Mozilla](https://developer.mozilla.org/)
+* [Coderwall](https://coderwall.com/)
+* [StackOverflow](https://stackoverflow.com/)
+* [GitHub](https://github.com/)
 ## <a name="built w"></a>Built Using
 ---
 
